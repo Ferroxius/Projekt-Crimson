@@ -11,7 +11,7 @@
     - [Pre-Installation](#pre-installation)
     - [Wabbajack Installation](#wabbajack-installation)
     - [Post-Installation](#post-installation)
-- [Playing and MCM Configuration](#playing-and-mcm-configuration)
+- [Playing and setting configuration](#playing-and-mcm-configuration)
 - [Updating](#updating)
 - [Removing](#removing)
 - [Contacts](#contacts)
@@ -30,7 +30,7 @@ This is a modlist that contains a small amount of mods with the intention of upl
 - Cleaner and configurable user interface
 
 
-# What not to expect
+## What not to expect
 - Any visual or lighting mods reminiscent of the original E3 promotional material
 - New/Overhauled gameplay mechanics
 
