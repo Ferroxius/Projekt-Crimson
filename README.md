@@ -1,5 +1,5 @@
 # Kinshu
-![splash](https://github.com/Ferroxius/Kinshu/assets/88400328/d2c5e244-8269-43a7-b201-f62dbe0c278f)
+![splash](https://github.com/Ferroxius/Kinshu/assets/88400328/c876011f-e6b3-4ca5-9ada-c5dcf211bc95)
 
 ## Contents
 - [Introduction](#introduction)
