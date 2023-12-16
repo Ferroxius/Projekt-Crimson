@@ -93,10 +93,10 @@ Download [Wabbajack](https://www.wabbajack.org/)
 - Double click wabbajack.exe and let the program update itself if needed
 
 **Downloading and Installing Kinshu**
-Click "Browse Modlists" in Wabbajacks menu
-find "Kinshu" in the gallery and click on the arrow button to download the installation file
+Click "releases"
+find the latest version of Kinshu and download the wabbajack file. Run it to start the installation
 In the installation window, you will be asked to define the locations of two folders:
-- Installation Location which is where LBOE will be installed. Choose an easy to access folder such as C:\Games\ that is outside UAC protected folders (Program Files, Documents, etc).
+- Installation Location which is where Kinshu will be installed. Choose an easy to access folder such as C:\Games\ that is outside UAC protected folders (Program Files, Documents, etc).
 - Download Location which is where the downloaded mod archives will be stored. The default location is within MO2s downloads folder but if you want you can set it to an external folde
 - Once the folder locations have been set click the button on the right to start installation
 
