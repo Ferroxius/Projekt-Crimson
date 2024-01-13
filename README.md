@@ -72,7 +72,7 @@ Considering that all versions of Cyberpunk are pretty much identical this list s
 - All additional free DLC and REDMod
 - Latest version of windows 10
 - A nexus mods account (Premium is recommended by Wabbajack to automate installation but you can use a free one)
-- Latest NVIDIA/AMD Drivers
+- Latest NVIDIA/AMD/Intel Drivers
 - 3.5GB of storage space available in total
 
 **MO2 Requirements**
@@ -93,8 +93,8 @@ Download [Wabbajack](https://www.wabbajack.org/)
 - Double click wabbajack.exe and let the program update itself if needed
 
 **Downloading and Installing Kinshu**
-Click "releases"
-find the latest version of Kinshu and download the wabbajack file. Run it to start the installation
+Click "Browse Modlists" in Wabbajacks menu as well as "Show Unofficial Lists" and filter by "Cyberpunk 2077"
+find "Kinshu" in the gallery and click on the arrow button to download the installation file
 In the installation window, you will be asked to define the locations of two folders:
 - Installation Location which is where Kinshu will be installed. Choose an easy to access folder such as C:\Games\ that is outside UAC protected folders (Program Files, Documents, etc).
 - Download Location which is where the downloaded mod archives will be stored. The default location is within MO2s downloads folder but if you want you can set it to an external folde
