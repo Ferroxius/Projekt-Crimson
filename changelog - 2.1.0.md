@@ -1,35 +1,42 @@
 # v2.1.0
-### Added
-Better Access Point Netrunning Rewards
-Brendan - No Skill Check
-Stealth Remote Control Cars and Turrets
-Pet Your Cat
-Body Shield
-Borg Malorian
-Buttslinger Quickmelee
-Keep Drawing the Line
-Ricochet Redux
-Second Heart Fix
-Savage Stun
-Patch 2.1 Finisher Fix
-Comrade Restored
-Kiroshi Optics Night Vision Mod
-Windswept
-Playable Arcade Machines
-No Paper Bags from Vending Machines
-Crafting Recipe Owned Labels
-Find-EX
-Faster Iguana Hatch
-Appearance Change Unlocker
-Clear Skill Checks
-Faster Vehicle Knockdown Animation
-Metro Pocket Guide
-More Climbable Objects
-Database Fixes
-Don't Hide Stamina Bar on Holster
-More Cyberware Capacity Per Level
-Instant Wardrobe
+## Added
+### Bugfixes and QoLs
+- Brendan - No Skill Check
+- Crafting Recipe Owned Labels
+- Don't Hide Stamina Bar on Holster
+- Database Fixes
+- Faster Iguana Hatch
+- Instant Wardrobe
+- Patch 2.1 Finisher Fix
+- Second Heart Fix
 
-### Removed
+### User Interface
+- Appearance Change Unlocker
+- Clear Skill Checks
+- Find-EX
+- Metro Pocket Guide
+
+### Gameplay
+- Better Access Point Netrunning Rewards
+- Body Shield
+- Borg Malorian
+- Buttslinger Quickmelee
+- Comrade Restored
+- Faster Vehicle Knockdown Animation
+- Keep Drawing the Line
+- More Climbable Objects
+- More Cyberware Capacity Per Level
+- Pet Your Cat
+- Playable Arcade Machines
+- Ricochet Redux
+- Savage Stun
+- Stealth Remote Control Cars and Turrets
+
+### Visuals
+- Kiroshi Optics Night Vision Mod
+- No Paper Bags from Vending Machines
+- Windswept
+
+## Removed
+### Bugfixes and QoLs
 - Simple Flashlight (Prefer Kiroshi Night Vision)
-### Updated
