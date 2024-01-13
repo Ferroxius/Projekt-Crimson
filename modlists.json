@@ -19,21 +19,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Ferroxius/Kinshu/main/KinshuSplash.png",
       "readme": "https://raw.githubusercontent.com/Ferroxius/Kinshu/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Kinshu.wabbajack_1e430b87-471a-4d53-a079-f46fd721ca93",
+      "download": "https://authored-files.wabbajack.org/Kinshu.wabbajack_196055c8-99cd-41fc-b876-3de640d450ce",
       "machineURL": "Kinshu",
       "discordURL": "https://discord.gg/aetherius-modding"
     },
     "download_metadata": {
-      "Hash": "EFtxxAD2W0U=",
-      "Size":217054,
-      "NumberOfArchives":41,
-      "SizeOfArchives":1350378078,
-      "NumberOfInstalledFiles":2613,
-      "SizeOfInstalledFiles":1747917463
+      "Hash": "NAHMEbnmLIY=",
+      "Size": 277844,
+      "NumberOfArchives": 69,
+      "SizeOfArchives": 1354295955,
+      "NumberOfInstalledFiles": 2769,
+      "SizeOfInstalledFiles": 1753614931
     },
-    "version": "2.0.0",
+    "version": "2.1.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-11-20T15:08:34.1174103Z",
+    "dateUpdated": "2024-01-13T11:26:44.1708321Z",
     "repositoryName": ""
   }
 ]
