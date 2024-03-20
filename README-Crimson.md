@@ -13,7 +13,7 @@ Future lists (TBD):
 
 
 ## Terra
-![Terrasplash](https://github.com/Ferroxius/Kinshu/assets/88400328/6a6e5108-daf7-4359-b7df-ec7171ea5467)
+![Terrasplash2](https://github.com/Ferroxius/Kinshu/assets/88400328/41d3087c-d3a6-4f76-a02f-659f3e8b5913)
 
 Terra is a small collection of mods aimed at improving The Witcher experience without detracting much from its original designs. Includes:
 - No whole game overhaul mods are used e.g. FCR/Flash
