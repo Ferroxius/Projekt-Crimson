@@ -4,12 +4,12 @@
 Projekt Crimson is the collection of modlists developed by Ferroxius for games developed by CD Projekt Red
 
 Currently available lists include:
-- Terra - The Witcher
-- Kinshu - Cyberpunk 2077
+- **Terra** - The Witcher
+- **Kinshu** - Cyberpunk 2077
 
 Future lists (TBD):
-- Azure - The Witcher 2
-- Caerme/Lune - The Witcher 3
+- **Azure** - The Witcher 2
+- **Caerme/Lune** - The Witcher 3
 
 
 ## Terra
