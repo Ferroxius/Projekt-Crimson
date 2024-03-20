@@ -22,6 +22,7 @@ Terra is a small collection of mods aimed at improving The Witcher experience wi
 - General texture overhaul that retains the original designs while also diversifying some lacking areas
 - Character redesigns to make them more distinctive while retaining the vanilla designs to a degree
 
+See the full list [here](https://loadorderlibrary.com/lists/terra)
 
 # Kinshu
 ![KinshuSplash](https://github.com/Ferroxius/Kinshu/assets/88400328/221eb4bb-fb4d-4a4a-85d4-36b9b552abed)
@@ -33,3 +34,5 @@ Kinshu is a collection of mods focused on making Cyberpunk 2077 more engaging an
 - Iterating upon existing game mechanics to add some more thought
 - No new game mechanics or features
 - Semi-altered visuals but retaining of the vanilla art direction
+
+See the full list [here](https://loadorderlibrary.com/lists/kinshu)
