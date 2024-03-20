@@ -12,7 +12,7 @@ Future lists (TBD):
 - **Caerme/Lune** - The Witcher 3
 
 
-# Terra
+# Terra - A Witcher 1 Modlist
 ![Terrasplash2](https://github.com/Ferroxius/Kinshu/assets/88400328/41d3087c-d3a6-4f76-a02f-659f3e8b5913)
 
 Terra is a small collection of mods aimed at improving The Witcher experience without detracting much from its original designs. Includes:
@@ -24,7 +24,7 @@ Terra is a small collection of mods aimed at improving The Witcher experience wi
 
 See the full list [here](https://loadorderlibrary.com/lists/terra)
 
-# Kinshu
+# Kinshu - A Cyberpunk 2077 Modlist
 ![KinshuSplash](https://github.com/Ferroxius/Kinshu/assets/88400328/221eb4bb-fb4d-4a4a-85d4-36b9b552abed)
 
 Kinshu is a collection of mods focused on making Cyberpunk 2077 more engaging and semi-strategic
