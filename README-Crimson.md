@@ -1,5 +1,5 @@
 # Projekt Crimson
-![ProjketCrimson](https://github.com/Ferroxius/Kinshu/assets/88400328/b0dfdbaf-982c-4d43-b708-a583826771e6)
+![ProjketCrimson2](https://github.com/Ferroxius/Kinshu/assets/88400328/4466a093-89d4-4d2f-b252-cfe93e7a81e7)
 
 Projekt Crimson is the collection of modlists developed by Ferroxius for games developed by CD Projekt Red
 
