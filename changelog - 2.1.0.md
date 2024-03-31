@@ -1,3 +1,41 @@
+# v2.2.0
+## Added
+### Frameworks
+- Material and Texture Override
+
+### Fixes & Quality of Lifes
+- No Panic Driving
+
+### User Interface
+- Informative HUD Quickhacks Memory Counter
+
+### Gameplay
+- Damage Scaling and Balance
+- Lawless Areas
+
+### Visuals
+- Alternate Character Lighting
+- Authentic Shift
+- Enable Advert Animations
+- MAXTAC - BLACK
+- METRO GLASS
+- Microblend Fix
+- Morph Texture Removal
+- Nova Rain
+- Preem Skin
+- Realcolorr III
+- reFlash
+
+
+## Updated
+- Framework mods for game update 2.12a
+- Main Menu Redone (Switched to version without logo)
+
+
+## Removed
+### User Interface
+- Hacking Minigame UI Color Fix 2.0 (Decided I preferred vanilla)
+
 # v2.1.0
 ## Added
 ### Bugfixes and QoLs
